@@ -2,15 +2,17 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Javascript Repl</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>    
    <div id="container"></div>
-
+   <div id="console"></div>
+    
     <script>
       // You can also require other files to run in this process
       require('./renderer.js')
+      require('./evaluate.js');
     </script>
   </body>
 </html>

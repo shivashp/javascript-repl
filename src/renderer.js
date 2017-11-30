@@ -11,4 +11,3 @@ loader().then(monaco => {
     automaticLayout: true
   })
 });
-
