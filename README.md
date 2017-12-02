@@ -18,3 +18,8 @@ npm install
 # Run the app
 npm start
 ```
+
+## Working Around
+
+press Ctrl + B to run the program.
+Semicolon is compulsory.
